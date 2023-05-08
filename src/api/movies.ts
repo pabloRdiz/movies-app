@@ -5,7 +5,7 @@ import axios from 'axios';
 const movieDB = axios.create({
   baseURL: 'https://api.themoviedb.org/3/movie',
   params: {
-    api_key: 'API_KEY',
+    api_key: '4c92f4783b86aaa50853f6b6323bebc6',
   },
 });
 
